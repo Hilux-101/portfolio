@@ -75,6 +75,10 @@ hr{
     text-align: left;
     
 }
+/* .skill-row img{
+    width: 100%;
+    height: auto;
+} */
 
 .web-programming{
     width: 25%;
@@ -91,13 +95,21 @@ hr{
 .web-programming-discription{
     text-align: right;
 }
-.computer {
-    width: 20%;
-    float: right;
-    margin-left: 10px;
+
+.networking-heading{
+    text-align: left;
+    padding-top: 10px;
+}
+.network {
+    max-height: 150px;
+max-width: 200px;
+width: 120px;
+height: 120px;
+float: right;
+   
 }
 
-.computer-discription{
+.network-description{
     margin: auto;
 }
 .middle-container{
